@@ -50,5 +50,5 @@ plt.ylabel(r'$\epsilon$');
 plt.show();
 ```
 
-![误差随试验次数收敛][./output_2_0.png]
+![误差随试验次数收敛](./output_2_0.png)
 
